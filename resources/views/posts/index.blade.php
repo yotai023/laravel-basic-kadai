@@ -8,7 +8,7 @@
  </head>
  
  <body>
-     <p>投稿一覧</p>
+     <h1>投稿一覧</h1>
  </body>
  
  </html>
