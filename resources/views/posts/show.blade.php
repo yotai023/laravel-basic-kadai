@@ -28,7 +28,8 @@
          <tr>
              <th>更新日時</th>
              <td>{{ $post->updated_at }}</td>
-         </tr>      
+         </tr>  
+         
      </table>
  </body>
  
